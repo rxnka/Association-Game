@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\VISION\Back\Projekti 2 Assosiation\Projekt2\Projekt2\bin\Debug\Projekt2.exe.config
+C:\Users\Dell\Desktop\VISION\Back\Projekti 2 Assosiation\Projekt2\Projekt2\bin\Debug\Projekt2.exe
+C:\Users\Dell\Desktop\VISION\Back\Projekti 2 Assosiation\Projekt2\Projekt2\bin\Debug\Projekt2.pdb
+C:\Users\Dell\Desktop\VISION\Back\Projekti 2 Assosiation\Projekt2\Projekt2\obj\Debug\Projekt2.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\VISION\Back\Projekti 2 Assosiation\Projekt2\Projekt2\obj\Debug\Projekt2.Player.resources
+C:\Users\Dell\Desktop\VISION\Back\Projekti 2 Assosiation\Projekt2\Projekt2\obj\Debug\Projekt2.Properties.Resources.resources
+C:\Users\Dell\Desktop\VISION\Back\Projekti 2 Assosiation\Projekt2\Projekt2\obj\Debug\Projekt2.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\VISION\Back\Projekti 2 Assosiation\Projekt2\Projekt2\obj\Debug\Projekt2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\VISION\Back\Projekti 2 Assosiation\Projekt2\Projekt2\obj\Debug\Projekt2.exe
+C:\Users\Dell\Desktop\VISION\Back\Projekti 2 Assosiation\Projekt2\Projekt2\obj\Debug\Projekt2.pdb
+C:\Users\Dell\Desktop\VISION\Back\Projekti 2 Assosiation\Projekt2\Projekt2\obj\Debug\Projekt2.Assosiation.resources
+C:\Users\Dell\Desktop\VISION\Back\Projekti 2 Assosiation\Projekt2\Projekt2\obj\Debug\Projekt2.play.resources
