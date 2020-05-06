@@ -1,4 +1,4 @@
-# Assosation-Game
+# Assocation-Game
 
 This is a C# windows form application
 
